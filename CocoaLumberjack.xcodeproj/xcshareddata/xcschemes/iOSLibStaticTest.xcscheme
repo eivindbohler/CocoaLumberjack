@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18F3BF5E1A81DD2E00692297"
-               BuildableName = "iOSSwiftTest.app"
-               BlueprintName = "iOSSwiftTest"
+               BlueprintIdentifier = "18F3BFF11A81E0C700692297"
+               BuildableName = "iOSLibStaticTest.app"
+               BlueprintName = "iOSLibStaticTest"
                ReferencedContainer = "container:Lumberjack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18F3BF5E1A81DD2E00692297"
-            BuildableName = "iOSSwiftTest.app"
-            BlueprintName = "iOSSwiftTest"
+            BlueprintIdentifier = "18F3BFF11A81E0C700692297"
+            BuildableName = "iOSLibStaticTest.app"
+            BlueprintName = "iOSLibStaticTest"
             ReferencedContainer = "container:Lumberjack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18F3BF5E1A81DD2E00692297"
-            BuildableName = "iOSSwiftTest.app"
-            BlueprintName = "iOSSwiftTest"
+            BlueprintIdentifier = "18F3BFF11A81E0C700692297"
+            BuildableName = "iOSLibStaticTest.app"
+            BlueprintName = "iOSLibStaticTest"
             ReferencedContainer = "container:Lumberjack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18F3BF5E1A81DD2E00692297"
-            BuildableName = "iOSSwiftTest.app"
-            BlueprintName = "iOSSwiftTest"
+            BlueprintIdentifier = "18F3BFF11A81E0C700692297"
+            BuildableName = "iOSLibStaticTest.app"
+            BlueprintName = "iOSLibStaticTest"
             ReferencedContainer = "container:Lumberjack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

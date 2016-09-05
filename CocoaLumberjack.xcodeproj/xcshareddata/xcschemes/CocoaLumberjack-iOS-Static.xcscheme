@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "19FF46011B8B4CF400B43179"
-               BuildableName = "CocoaLumberjack.framework"
-               BlueprintName = "CocoaLumberjack-iOS"
+               BlueprintIdentifier = "18F3BFD61A81E06E00692297"
+               BuildableName = "libCocoaLumberjack.a"
+               BlueprintName = "CocoaLumberjack-iOS-Static"
                ReferencedContainer = "container:Lumberjack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "19FF46011B8B4CF400B43179"
-            BuildableName = "CocoaLumberjack.framework"
-            BlueprintName = "CocoaLumberjack-iOS"
+            BlueprintIdentifier = "18F3BFD61A81E06E00692297"
+            BuildableName = "libCocoaLumberjack.a"
+            BlueprintName = "CocoaLumberjack-iOS-Static"
             ReferencedContainer = "container:Lumberjack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "19FF46011B8B4CF400B43179"
-            BuildableName = "CocoaLumberjack.framework"
-            BlueprintName = "CocoaLumberjack-iOS"
+            BlueprintIdentifier = "18F3BFD61A81E06E00692297"
+            BuildableName = "libCocoaLumberjack.a"
+            BlueprintName = "CocoaLumberjack-iOS-Static"
             ReferencedContainer = "container:Lumberjack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
